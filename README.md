@@ -3,7 +3,7 @@
 A simple way to use Adobe Connect web service api with python.
 You can see complete ist of web services in [Web Services API reference](https://helpx.adobe.com/adobe-connect/webservices/topics/action-reference.html)
 
-** Caution:** Not all api methods are implemented and should be completed over time
+**Caution:** Not all api methods are implemented and should be completed over time
 
 ## How to use:
 - git clone https://github.com/mohsenone/python-connect
